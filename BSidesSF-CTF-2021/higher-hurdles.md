@@ -95,8 +95,9 @@ I'm sorry, Basically, I was expecting the password to be the hex representation 
 ```
 
 https://sha256calc.com/hash/sha3-224/matir
-4ef03423738a4aa7956528feebbc65474c053f5937032dfb9219af62
-```
+
+```4ef03423738a4aa7956528feebbc65474c053f5937032dfb9219af62```
+
 
 ```
 $ curl -i --basic -u username:4ef03423738a4aa7956528feebbc65474c053f5937032dfb9219af62 -XPUT "https://higher-hurdles-74a23189.challenges.bsidessf.net/hurdles/%21%21?retrieve=flag&%26%3D%26%3D%26=%2500%0a"
@@ -110,7 +111,7 @@ alt-svc: clear
 
 I'm sorry, I was expecting you to be using a 1337 Browser.
 ```
-```
+
 
 ```
 $ curl -i -A "1337 Browser" --basic -u username:4ef03423738a4aa7956528feebbc65474c053f5937032dfb9219af62 -XPUT "https://higher-hurdles-74a23189.challenges.bsidessf.net/hurdles/%21%21?retrieve=flag&%26%3D%26%3D%26=%2500%0a"
@@ -339,3 +340,6 @@ Congratulations!
 ```
 
 flag in HTTP header:
+```
+x-ctf-flag: CTF{good_work_on_hurdling_past_2020}
+```
