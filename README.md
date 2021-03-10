@@ -1,6 +1,6 @@
 # CTF/SecChallenges writeups
 
-* [BSidesSF-CTF-2021](https://github.com/jaguasch/writeups/tree/main/BSidesSF-CTF-2021)
+* [BSidesSF-CTF-2021](https://github.com/jaguasch/writeups/tree/main/BSidesSF-CTF-2021) - https://ctf.bsidessf.net/
   * [csp1](https://github.com/jaguasch/ctf-writeups/blob/main/BSidesSF-CTF-2021/csp1.md)
   * [csp2](https://github.com/jaguasch/ctf-writeups/blob/main/BSidesSF-CTF-2021/csp2.md)
   * [cutesrv](https://github.com/jaguasch/ctf-writeups/blob/main/BSidesSF-CTF-2021/cutesrv.md)
