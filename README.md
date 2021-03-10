@@ -9,4 +9,4 @@
   * [runme](https://github.com/jaguasch/ctf-writeups/blob/main/BSidesSF-CTF-2021/runme.md)
   * [runme2](https://github.com/jaguasch/ctf-writeups/blob/main/BSidesSF-CTF-2021/runme2.md)
   * [shout-into-void](https://github.com/jaguasch/ctf-writeups/blob/main/BSidesSF-CTF-2021/shout-into-void.md)
-  * [the-mint](https://github.com/jaguasch/ctf-writeups/blob/main/BSidesSF-CTF-2021/the-mint.md)
+  * [thin-mint](https://github.com/jaguasch/ctf-writeups/blob/main/BSidesSF-CTF-2021/thin-mint.md)
